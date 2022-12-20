@@ -1,10 +1,12 @@
 # Overview 
 
--   tired of remembering all the commandline switches of [dig|...] to [get|analyze] dns responses
--   snapshot and compare dns anwers from different resolver for consistency
--   get an summary overview report of all DNS types, even if your resolver blocks ANY
--   get all kind of alerts about any anomalies, broken or depricated cryptographic functions
--   support for all kind of custom or pre-defined custom and secure (DoT) (batch) resolver (see paepcke.de/dnsresolver)
+[paepche.de/dnsinfo](https://paepcke.de/dnsinfo)
+
+-   Tired of remembering all the commandline switches of [dig|...] to [get|analyze] dns responses
+-   Snapshot and compare dns anwers from different resolver for consistency
+-   Get an summary overview report of all DNS types, even if your resolver blocks ANY
+-   Get all kind of alerts about any anomalies, broken or depricated cryptographic functions
+-   Support for all kind of custom or pre-defined custom and secure (DoT) (batch) resolver (see paepcke.de/dnsresolver)
 -   100% pure go, minimal(internal-only) imports, use as app or api (see api.go), compatible with certinfo, tlsinfo, ...
 
 # Showtime
