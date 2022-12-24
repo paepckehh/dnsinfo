@@ -1,4 +1,4 @@
-// package dnsinfo
+// package dnsinfo provides dns reports
 package dnsinfo
 
 // import
@@ -64,7 +64,7 @@ func ReportHTML(hostname string) string {
 // GENERIC BACKEND
 //
 
-// Report
+// Report ...
 type Report struct {
 	// Hostname is the name to query
 	Query string
