@@ -14,6 +14,10 @@
 go install paepcke.de/dnsinfo/cmd/fdnsinfo@latest
 ```
 
+# DOWNLOAD (prebuild)
+
+[github.com/paepckehh/dnsinfo/releases](https://github.com/paepckehh/dnsinfo/releases)
+
 # Showtime
 
 ## Get a summary of a single host TLS [connection|handshake].
