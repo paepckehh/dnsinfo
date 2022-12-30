@@ -9,12 +9,12 @@
 -   Support for all kind of custom or pre-defined custom and secure (DoT) (batch) resolver (see paepcke.de/dnsresolver)
 -   100% pure go, minimal(internal-only) imports, use as app or api (see api.go), compatible with certinfo, tlsinfo, ...
 
-## Install 
+# Install 
 ```
 go install paepcke.de/dnsinfo/cmd/fdnsinfo@latest
 ```
 
-# DOWNLOAD (prebuild)
+### DOWNLOAD (prebuild)
 
 [github.com/paepckehh/dnsinfo/releases](https://github.com/paepckehh/dnsinfo/releases)
 
