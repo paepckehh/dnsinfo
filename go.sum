@@ -40,5 +40,5 @@ golang.org/x/xerrors v0.0.0-20200804184101-5ec99f83aff1 h1:go1bK/D/BFZV2I8cIQd1N
 golang.org/x/xerrors v0.0.0-20200804184101-5ec99f83aff1/go.mod h1:I/5z698sn9Ka8TeJc9MKroUUfqBBauWjQqLJ2OPfmY0=
 paepcke.de/dnsresolver v0.1.0 h1:eTfRa0I1UZuEnthJO4F/0uTxfyJj9xF6r3XP1na0ys4=
 paepcke.de/dnsresolver v0.1.0/go.mod h1:xSwKJn4uzFrAmQTfqgHViKY+UZYZZQVQcAc5bfwMVKU=
-paepcke.de/reportstyle v0.1.0 h1:lDYkSGkTjtzRCai6ZBlA19Q//hDYRBAr1gJlsYTh214=
-paepcke.de/reportstyle v0.1.0/go.mod h1:n8RawMbFocJ+xICuqY6RAsGgEvOrgAeSXA/Myu5ecPE=
+paepcke.de/reportstyle v0.1.2 h1:uuzwCx+cNomSIrbHWwZqGOdvwiLEApDLZJ4GPYLlOLY=
+paepcke.de/reportstyle v0.1.2/go.mod h1:r9PZy6Tnm6C3/48Y7YHnt79Ar2ybmCdSg+et3zw/C9Y=
