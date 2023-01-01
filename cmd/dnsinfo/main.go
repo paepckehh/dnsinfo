@@ -79,7 +79,7 @@ func outMsg(msg string) {
 
 // errExit
 func errExit(msg string) {
-	out(_app + _err + msg)
+	out(_app + _err + msg + _linefeed)
 	os.Exit(1)
 }
 
