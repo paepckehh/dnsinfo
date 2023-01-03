@@ -1,11 +1,6 @@
 // package dnsinfo
 package dnsinfo
 
-// import
-import (
-	"os"
-)
-
 // const
 const (
 	_whitespace         = ' '
@@ -43,26 +38,17 @@ const (
 //
 
 // fqdn ...
-func fqdn(name string) string {
-	l := len(name)
-	if l > 0 {
-		last := name[l-1]
-		if last == _dotRune {
-			return name
-		}
-		return name + _dot
-	}
-	return "empty.hostname"
-}
-
-// isFile ...
-func isFile(filename string) bool {
-	fi, err := os.Lstat(filename)
-	if err != nil {
-		return false
-	}
-	return fi.Mode().IsRegular()
-}
+// func fqdn(name string) string {
+// 	l := len(name)
+// 	if l > 0 {
+// 		last := name[l-1]
+// 		if last == _dotRune {
+// 			return name
+// 		}
+// 		return name + _dot
+// 	}
+// 	return "empty.hostname"
+// }
 
 // isActiveBool ...
 func isActiveBool(in bool) string {

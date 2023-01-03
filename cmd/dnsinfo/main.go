@@ -72,11 +72,6 @@ func out(msg string) {
 	os.Stdout.Write([]byte(msg))
 }
 
-// out ...
-func outMsg(msg string) {
-	out(_app + msg + _linefeed)
-}
-
 // errExit
 func errExit(msg string) {
 	out(_app + _err + msg + _linefeed)
@@ -114,13 +109,4 @@ func isEnv(in string) bool {
 // getEnv ...
 func getEnv(in string) string {
 	return os.Getenv(in)
-}
-
-// readFile ...
-func readFile(filename string) string {
-	file, err := os.ReadFile(filename)
-	if err != nil {
-		errExit("unable to read file: " + err.Error())
-	}
-	return string(file)
 }
