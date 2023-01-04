@@ -4,7 +4,7 @@ go 1.19
 
 require (
 	github.com/miekg/dns v1.1.50
-	paepcke.de/dnsresolver v0.1.0
+	paepcke.de/dnsresolver v0.1.1
 	paepcke.de/reportstyle v0.1.2
 )
 
