@@ -1,4 +1,4 @@
-# Overview 
+# OVERVIEW
 
 [paepche.de/dnsinfo](https://paepcke.de/dnsinfo)
 
@@ -9,7 +9,7 @@
 -   Support for all kind of custom or pre-defined custom and secure (DoT) (batch) resolver (see paepcke.de/dnsresolver)
 -   100% pure go, minimal(internal-only) imports, use as app or api (see api.go), compatible with certinfo, tlsinfo, ...
 
-# Install 
+# INSTALL
 ```
 go install paepcke.de/dnsinfo/cmd/fdnsinfo@latest
 ```
@@ -18,7 +18,7 @@ go install paepcke.de/dnsinfo/cmd/fdnsinfo@latest
 
 [github.com/paepckehh/dnsinfo/releases](https://github.com/paepckehh/dnsinfo/releases)
 
-# Showtime
+# SHOWTIME
 
 ## Get a summary of a single host TLS [connection|handshake].
 
@@ -84,3 +84,7 @@ func main() {
 }
 
 ```
+
+# CONTRIBUTION
+
+Yes, Please! PRs Welcome! 
