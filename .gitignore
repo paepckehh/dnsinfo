@@ -21,5 +21,4 @@
 Makefile
 doc
 vendor
-dnsinfo
 cmd/dnsinfo/dnsinfo
