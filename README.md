@@ -1,6 +1,6 @@
 # OVERVIEW
 
-[paepche.de/dnsinfo](https://paepcke.de/dnsinfo)
+[paepche.de/dnsinfo](https://paepcke.de/dnsinfo/)
 
 -   Tired of remembering all the commandline switches of [dig|...] to [get|analyze] dns responses
 -   Snapshot and compare dns anwers from different resolver for consistency
