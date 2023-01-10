@@ -85,6 +85,10 @@ func main() {
 
 ```
 
+# DOCS
+
+[pkg.go.dev/paepcke.de/dnsinfo](https://pkg.go.dev/paepcke.de/dnsinfo)
+
 # CONTRIBUTION
 
 Yes, Please! PRs Welcome! 
