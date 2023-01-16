@@ -1,5 +1,5 @@
 # OVERVIEW
-[![Go Report Card](https://goreportcard.com/badge/paepcke.de/dnsinfo)](https://goreportcard.com/report/paepcke.de/dnsinfo)
+[![Go Reference](https://pkg.go.dev/badge/paepcke.de/dnsinfo.svg)](https://pkg.go.dev/paepcke.de/dnsinfo) [![Go Report Card](https://goreportcard.com/badge/paepcke.de/dnsinfo)](https://goreportcard.com/report/paepcke.de/dnsinfo)
 
 [paepche.de/dnsinfo](https://paepcke.de/dnsinfo/)
 
