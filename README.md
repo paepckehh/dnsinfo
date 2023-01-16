@@ -1,4 +1,5 @@
 # OVERVIEW
+[![Go Report Card](https://goreportcard.com/badge/paepcke.de/dnsinfo)](https://goreportcard.com/report/paepcke.de/dnsinfo)
 
 [paepche.de/dnsinfo](https://paepcke.de/dnsinfo/)
 
