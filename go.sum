@@ -37,7 +37,7 @@ golang.org/x/xerrors v0.0.0-20190717185122-a985d3407aa7/go.mod h1:I/5z698sn9Ka8T
 golang.org/x/xerrors v0.0.0-20191011141410-1b5146add898/go.mod h1:I/5z698sn9Ka8TeJc9MKroUUfqBBauWjQqLJ2OPfmY0=
 golang.org/x/xerrors v0.0.0-20200804184101-5ec99f83aff1 h1:go1bK/D/BFZV2I8cIQd1NKEZ+0owSTG1fDTci4IqFcE=
 golang.org/x/xerrors v0.0.0-20200804184101-5ec99f83aff1/go.mod h1:I/5z698sn9Ka8TeJc9MKroUUfqBBauWjQqLJ2OPfmY0=
-paepcke.de/dnsresolver v0.1.7 h1:XPzZ7Zy7Xe6Avw6217YdvkFobcmHdWqkZxGPVUP3100=
-paepcke.de/dnsresolver v0.1.7/go.mod h1:9WJgCfEZEqGa6Sy3af6u2LNlQUxookWygZLJzARcfoc=
-paepcke.de/reportstyle v0.1.9 h1:CM2UlVKptVm4HMwszZjvpsEkpQ3QBON9dJ/FvtFa0wY=
-paepcke.de/reportstyle v0.1.9/go.mod h1:n8RawMbFocJ+xICuqY6RAsGgEvOrgAeSXA/Myu5ecPE=
+paepcke.de/dnsresolver v0.1.8 h1:QrCiRJqe8ASOffGDteRLeQnsPRBwCyB01OMPcCkV0x8=
+paepcke.de/dnsresolver v0.1.8/go.mod h1:9WJgCfEZEqGa6Sy3af6u2LNlQUxookWygZLJzARcfoc=
+paepcke.de/reportstyle v0.1.10 h1:oiQHwt7TT7Lw1WVfCir0VFydW/C5WXcPychv3+eATYo=
+paepcke.de/reportstyle v0.1.10/go.mod h1:n8RawMbFocJ+xICuqY6RAsGgEvOrgAeSXA/Myu5ecPE=
