@@ -5,7 +5,7 @@ go 1.20
 require (
 	github.com/miekg/dns v1.1.50
 	paepcke.de/dnsresolver v0.1.8
-	paepcke.de/reportstyle v0.1.10
+	paepcke.de/reportstyle v0.1.11
 )
 
 require (
