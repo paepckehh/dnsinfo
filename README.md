@@ -1,7 +1,7 @@
 # OVERVIEW
 [![Go Reference](https://pkg.go.dev/badge/paepcke.de/dnsinfo.svg)](https://pkg.go.dev/paepcke.de/dnsinfo) [![Go Report Card](https://goreportcard.com/badge/paepcke.de/dnsinfo)](https://goreportcard.com/report/paepcke.de/dnsinfo) [![Go Build](https://github.com/paepckehh/dnsinfo/actions/workflows/golang.yml/badge.svg)](https://github.com/paepckehh/dnsinfo/actions/workflows/golang.yml)
 
-[paepche.de/dnsinfo](https://paepcke.de/dnsinfo/)
+[paepcke.de/dnsinfo](https://paepcke.de/dnsinfo/)
 
 -   Tired of remembering all the commandline switches of [dig|...] to [get|analyze] dns responses
 -   Snapshot and compare dns anwers from different resolver for consistency
