@@ -3,7 +3,7 @@ module paepcke.de/dnsinfo
 go 1.20
 
 require (
-	github.com/miekg/dns v1.1.53
+	github.com/miekg/dns v1.1.54
 	paepcke.de/dnsresolver v0.1.12
 	paepcke.de/reportstyle v0.1.14
 )
