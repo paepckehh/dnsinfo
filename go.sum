@@ -13,5 +13,5 @@ golang.org/x/tools v0.3.0 h1:SrNbZl6ECOS1qFzgTdQfWXZM9XBkiA6tkFrH9YSTPHM=
 golang.org/x/tools v0.3.0/go.mod h1:/rWhSS2+zyEVwoJf8YAX6L2f0ntZ7Kn/mGgAWcipA5k=
 paepcke.de/dnsresolver v0.1.19 h1:JeP2sNA++7osgIcIs7hjMv1/2rw38nO5m0LrLNEH4I0=
 paepcke.de/dnsresolver v0.1.19/go.mod h1:K8OXY7QYnekcKqDMmbqrwa3zPQ4PWsoopnkpu25n9sM=
-paepcke.de/reportstyle v0.1.21 h1:7QX77WIhjGoARgjMNNgojShMxYwIYc9brEEoeOFZuB4=
-paepcke.de/reportstyle v0.1.21/go.mod h1:n8RawMbFocJ+xICuqY6RAsGgEvOrgAeSXA/Myu5ecPE=
+paepcke.de/reportstyle v0.1.22 h1:IXkBRl8LJg1d8aOrpAJjy3GR38AsHGsYFHZMxRPvcRA=
+paepcke.de/reportstyle v0.1.22/go.mod h1:n8RawMbFocJ+xICuqY6RAsGgEvOrgAeSXA/Myu5ecPE=
